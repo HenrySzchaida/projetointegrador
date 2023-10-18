@@ -224,23 +224,4 @@ p {
 
 
 
-/* RODAPÉ AO FINAL */
 
-footer {
-    max-width: 100vw    ;
-}
-body {
-    /* necessáio  */
-    min-height: 100vh;      
-    display: flex;
-    flex-direction: column;
-}
-
-.container-main {
-    flex-grow: 1;
-}
-
-.card-body  p {
-    display: block;
-    width: 100%;
-}
